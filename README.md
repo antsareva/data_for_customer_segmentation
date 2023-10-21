@@ -1,0 +1,1 @@
+# data_for_customer_segmentation
